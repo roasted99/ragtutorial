@@ -1,0 +1,5 @@
+chromadb
+os
+pypdf
+ollama
+re
